@@ -9,7 +9,7 @@ from tqdm import tqdm
 MODEL_DIR = "models"
 DEBUG = False
 # Set the path to the directory containing the image files
-IMAGE_DIR = "Output"
+IMAGE_DIR = "output"
 LIMIT = 1000  # Limit dataset size (0=no limit)
 IMG_SIZE = 256
 

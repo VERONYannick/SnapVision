@@ -1,6 +1,5 @@
 .vscode
-imgsOptimized/
+imgs_optimized/
 models/
-Output/
+output/
 images.zip
-imdb_0.tar

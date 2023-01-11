@@ -11,7 +11,7 @@ from PIL import Image
 from tqdm import tqdm
 
 # Set the path to the directory containing the image files
-IMAGE_DIR = "Output"
+IMAGE_DIR = "output"
 LIMIT = 2000  # Limit dataset size (0=no limit) (will load this limit for each category)
 EPOCH = 10
 STEP_EPOCH = 200
