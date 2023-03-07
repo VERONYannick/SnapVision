@@ -5,4 +5,4 @@ tensorflow
 tqdm
 requests
 pillow
-sklearn.model_selection
+scikit-learn
