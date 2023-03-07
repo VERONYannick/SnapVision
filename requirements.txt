@@ -4,5 +4,5 @@ numpy
 tensorflow
 tqdm
 requests
-PIL
+pillow
 sklearn.model_selection
