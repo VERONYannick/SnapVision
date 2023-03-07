@@ -1,4 +1,4 @@
-Detect snapcode on images using Tensorflow
+Detect stickers on images using Tensorflow
 
 # Scripts and functions
 
@@ -13,14 +13,10 @@ Download are NOT parallelized and files are extracted and resized one by one to 
 
 Only resize images (if you already have a local dataset)
 
-## opti_img_single.py
-
-Resize only 1 img (for snapcodes)
-
 ## seed.py
 
-Apply a snapcode on a fraction of dataset and create folders of images with and without a snapcode  
-Create picture with snapcode by pasting a snapcode on the picture at random (scale, rotation, position)
+Apply a sticker on a fraction of dataset and create folders of images with and without a sticker  
+Create picture with sticker by pasting a png on the picture at random (scale, rotation, position)
 
 ## train.py
 
