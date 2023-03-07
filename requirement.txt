@@ -1,0 +1,7 @@
+matplotlib.pyplot
+numpy
+tensorflow
+tqdm
+requests
+PIL
+sklearn.model_selection
